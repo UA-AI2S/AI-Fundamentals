@@ -1,4 +1,4 @@
-# AI-Fundamentals
+# AI Fundamentals for Professionals
 Arizona Online AI Fundamentals course learning materials and activities.
 
 ***
